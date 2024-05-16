@@ -20,6 +20,8 @@ To write a program to perform selection sort and insertion sort using python pro
 ## Program:
 i)	#Selection Sort
 ```python
+# Name: Nithilan S
+# Register number: 212223240108
 a = eval(input())
 n = len(a)
 lst = []
@@ -35,6 +37,8 @@ print(a)
 ```
 ii)	#Insertion Sort
 ```python
+# Name: Nithilan S
+# Register number: 212223240108
 a = eval(input())
 n = len(a)
 lst = []
